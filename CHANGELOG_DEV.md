@@ -9,3 +9,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-06-24 21:54]** docs: clarify environment setups and local preview steps
 - **[2026-06-25 15:09]** docs: clarify environment setups and local preview steps
 - **[2026-06-29 11:05]** fix: patch edge-case boundary in calculation logic
+- **[2026-06-30 11:16]** style: polish spacing across section hero headers
