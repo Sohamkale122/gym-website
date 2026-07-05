@@ -11,3 +11,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-06-29 11:05]** fix: patch edge-case boundary in calculation logic
 - **[2026-06-30 11:16]** style: polish spacing across section hero headers
 - **[2026-07-01 18:49]** perf: reduce redundant layout recalcs in animated cards
+- **[2026-07-05 15:32]** style: refine typography scale and line-height balance
