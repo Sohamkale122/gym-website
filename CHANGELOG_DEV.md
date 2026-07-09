@@ -12,3 +12,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-06-30 11:16]** style: polish spacing across section hero headers
 - **[2026-07-01 18:49]** perf: reduce redundant layout recalcs in animated cards
 - **[2026-07-05 15:32]** style: refine typography scale and line-height balance
+- **[2026-07-09 21:16]** refactor: modularize internal helpers for cleaner reusability
