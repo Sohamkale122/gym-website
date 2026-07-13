@@ -15,3 +15,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-09 21:16]** refactor: modularize internal helpers for cleaner reusability
 - **[2026-07-10 13:11]** docs: update module documentation and usage notes
 - **[2026-07-12 11:36]** refactor: streamline event handler signatures and callbacks
+- **[2026-07-13 12:12]** refactor: streamline event handler signatures and callbacks
