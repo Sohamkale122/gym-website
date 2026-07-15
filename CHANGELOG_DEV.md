@@ -17,3 +17,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-12 11:36]** refactor: streamline event handler signatures and callbacks
 - **[2026-07-13 12:12]** refactor: streamline event handler signatures and callbacks
 - **[2026-07-14 15:16]** perf: improve initial paint time by preloading core fonts
+- **[2026-07-15 15:05]** docs: update module documentation and usage notes
