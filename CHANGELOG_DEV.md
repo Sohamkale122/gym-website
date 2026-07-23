@@ -19,3 +19,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-14 15:16]** perf: improve initial paint time by preloading core fonts
 - **[2026-07-15 15:05]** docs: update module documentation and usage notes
 - **[2026-07-16 14:27]** perf: debounce scroll event listeners to minimize DOM repaints
+- **[2026-07-23 20:05]** perf: reduce redundant layout recalcs in animated cards
