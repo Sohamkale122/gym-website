@@ -20,3 +20,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-07-15 15:05]** docs: update module documentation and usage notes
 - **[2026-07-16 14:27]** perf: debounce scroll event listeners to minimize DOM repaints
 - **[2026-07-23 20:05]** perf: reduce redundant layout recalcs in animated cards
+- **[2026-07-28 19:31]** docs: update module documentation and usage notes
