@@ -28,3 +28,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-09 14:23]** feat: integrate modular utility helpers for calculated metrics
 - **[2026-08-10 18:06]** refactor: streamline event handler signatures and callbacks
 - **[2026-08-11 19:46]** docs: document architecture flow and component structure
+- **[2026-08-12 12:40]** perf: debounce scroll event listeners to minimize DOM repaints
