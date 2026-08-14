@@ -30,3 +30,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-11 19:46]** docs: document architecture flow and component structure
 - **[2026-08-12 12:40]** perf: debounce scroll event listeners to minimize DOM repaints
 - **[2026-08-13 19:23]** docs: update release notes and milestone summaries
+- **[2026-08-14 16:06]** style: fine-tune dark theme gradient opacity and borders
