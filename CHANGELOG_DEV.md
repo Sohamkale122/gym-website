@@ -36,3 +36,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-19 18:52]** docs: document architecture flow and component structure
 - **[2026-08-24 20:05]** refactor: streamline event handler signatures and callbacks
 - **[2026-08-28 21:49]** perf: optimize asset imports and bundle tree-shaking
+- **[2026-08-29 18:20]** docs: document architecture flow and component structure
