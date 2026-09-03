@@ -38,3 +38,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-28 21:49]** perf: optimize asset imports and bundle tree-shaking
 - **[2026-08-29 18:20]** docs: document architecture flow and component structure
 - **[2026-08-31 20:43]** fix: address z-index layering on floating drawer overlay
+- **[2026-09-03 19:52]** style: refine typography scale and line-height balance
