@@ -40,3 +40,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-08-31 20:43]** fix: address z-index layering on floating drawer overlay
 - **[2026-09-03 19:52]** style: refine typography scale and line-height balance
 - **[2026-09-05 18:17]** perf: reduce redundant layout recalcs in animated cards
+- **[2026-09-08 20:21]** feat: integrate modular utility helpers for calculated metrics
