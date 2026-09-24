@@ -47,3 +47,4 @@ Detailed iterative commit milestones and progress logs.
 - **[2026-09-14 21:51]** docs: clarify environment setups and local preview steps
 - **[2026-09-19 20:19]** refactor: structure config tokens for consistent theme variables
 - **[2026-09-22 14:36]** feat: add responsive layout breakpoints and grid spacing
+- **[2026-09-24 21:49]** docs: document architecture flow and component structure
