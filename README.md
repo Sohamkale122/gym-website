@@ -5,6 +5,9 @@ A modern, responsive gym website built with **React**, **Tailwind CSS v4**, and 
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?style=flat-square&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-Latest-646cff?style=flat-square&logo=vite)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel)
+
+🔗 **Live Demo:** [https://gym-website-ivory-beta.vercel.app](https://gym-website-ivory-beta.vercel.app)
 
 ## ✨ Features
 
